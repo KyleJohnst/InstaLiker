@@ -1,0 +1,32 @@
+{
+  "instagram": {
+    "user": "USERNAME",
+    "pass": "PASSWORD"
+  },
+  "config": {
+    "hashtags": [
+      "dronepilot",
+      "droneporn",
+      "scotlandlover",
+      "landscapephotography",
+      "fromwhereidrone",
+      "balilover",
+      "ocean",
+      "dronepic",
+      "fromabove",
+      "beachlife",
+      "waves",
+      "sunsets",
+      "visitscotland",
+      "somewhereinscotland",
+      "visitsouthafrica",
+      "southafrica", 
+      "waves",
+      "beach",
+      "landscape",
+      "seascape",
+      "travel",
+      "explore"
+    ]
+  }
+}
